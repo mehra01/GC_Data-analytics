@@ -23,6 +23,6 @@ The project focuses on building an AI/ML-powered system for analyzing, modeling,
 ## ⚙️ Installation & Setup
 Clone the repository and install the required dependencies:  
 ```bash
-git clone https://github.com/your-username/ElecKart-Capstone-Project.git
+git clone https://github.com/mehra01/ElecKart-Capstone-Project.git
 cd ElecKart-Capstone-Project
 pip install -r requirements.txt
